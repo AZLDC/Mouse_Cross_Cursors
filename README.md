@@ -9,7 +9,7 @@ Windows 10 自 1809 版後存在動畫游標無法持續播放的長期錯誤，
 | 檔案 | 說明 |
 | --- | --- |
 | `1_Croses_arrow_標準選擇.ani` | 標準指標（靜態十字） |
-| `1_Croses_arrow_標準選擇_醜修模式.ani` | 標準指標的極簡版本，供偏好更細線條者使用 |
+| `1_Croses_arrow_標準選擇_醜修模式.ani` | 標準指標的靜態版本，用以觸發 Windows 動畫游標 BUG 的暫時解法 |
 | `2_Croses_helpsel_選擇說明.ani` | 選擇說明（疑問號） |
 | `3_Croses_working_在背景作業.ani` | 在背景作業 |
 | `4_Croses_Busy_忙碌中.ani` | 忙碌中（旋轉動畫） |
